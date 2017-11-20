@@ -12,6 +12,9 @@ CNN과 BiLSTM을 이용한 한국어 객체명 인식기입니다.
 - ```konlpy, mecab```
 - ```gensim```
 
+#### 데이터셋
+-  엑소브레인 언어분석 말뭉치(ETRI)
+
 #### 성능
 ![classification_report](./assets/NER결과Classificaiton_report.png)
 
