@@ -1,5 +1,5 @@
 # CNN-BiLSTM model for Korean NER
-CNN과 BiLSTM을 이용한 한국어 객체명 인식기입니다.
+CNN과 BiLSTM을 이용한 한국어 개체명 인식기입니다.
 
 #### 사용한 자질은 다음과 같습니다.
 - 형태소 non-static word2vec, static word2vec (mecab 사용, gensim으로 word2vec)
